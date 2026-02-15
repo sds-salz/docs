@@ -8,4 +8,6 @@
 # Skandale und Clips
 - [n-wort](n-wort.md)
 - [Löschen von Clips](clips-deletion.md)
+- [Discord zieht nur FPS](discordrant.md)
+
 
