@@ -3,7 +3,7 @@ title = "SDS_Basti WIKI"
 author = "Du"
 language = "de"
 multilingual = false
-src = "src"
+src = "docs/src"
 
 [build]
 build-dir = "book"
